@@ -1,0 +1,15 @@
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.pdb
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\bin\Debug\Newtonsoft.Json.dll
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\bin\Debug\WebAPIClient.dll
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\bin\Debug\WebAPIObjects.dll
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\bin\Debug\Newtonsoft.Json.xml
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csprojAssemblyReference.cache
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CopyComplete
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.exe
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.pdb
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\bin\Debug\ForecastLibrary.dll
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\bin\Debug\System.Net.Http.Formatting.dll
+C:\.Net Study\Projects\WeatherForecast\WeatherForecast\bin\Debug\ForecastLibrary.pdb

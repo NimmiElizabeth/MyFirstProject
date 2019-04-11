@@ -1,0 +1,11 @@
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\obj\Debug\ForecastLibrary.csprojAssemblyReference.cache
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\obj\Debug\ForecastLibrary.csproj.CoreCompileInputs.cache
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\bin\Debug\ForecastLibrary.dll
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\bin\Debug\ForecastLibrary.pdb
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\bin\Debug\WebAPIObjects.dll
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\obj\Debug\ForecastLibrary.csproj.CopyComplete
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\obj\Debug\ForecastLibrary.dll
+C:\.Net Study\Projects\WeatherForecast\ForecastLibrary\obj\Debug\ForecastLibrary.pdb
